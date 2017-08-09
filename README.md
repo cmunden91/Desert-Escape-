@@ -12,6 +12,6 @@ Authors: Christopher Munden, Adam McCann
 
 <p>This game was created for the HTC Vive and The Leap Motion Plus.</p>
 
-<p>(All assets in this game are not owned by Me or Adam are Royalty Free sources. All of them are cited within the source file)
+<p>(All assets(Sounds, Models, Textures ETC) are not owned or created Christopher Munden or Adam McCann and are all under the Royalty Free License. All of them are cited within the source file)
 </p>
 </body>
